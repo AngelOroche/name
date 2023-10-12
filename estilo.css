@@ -1,0 +1,48 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffe4c4;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    background-color: #a0c7f7
+    ;
+  }
+  
+  #datos, #principal {
+    float: left;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #datos {
+   width: 10%;
+   background-color: aliceblue;
+   margin-right: 2%;
+   padding: 2%;
+  }
+  
+  #principal {
+    width: 80%;
+    background-color: aliceblue;
+    padding: 2%;
+  }
+  #principal p{
+    text-align: justify;
+  }
+  #contenido {
+    list-style-type: none;
+    padding: 0;
+    width: 105%;
+    
+  }
+  
+  #contenido li {
+
+    float: left;
+    width: 30.4%; 
+    text-align: justify;
+    margin-right: 2%; 
+}
